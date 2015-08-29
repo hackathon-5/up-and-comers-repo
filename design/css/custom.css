@@ -1,0 +1,30 @@
+body{ 
+	padding-top:50px;
+}
+
+.jumbotron{
+	background-color: red;
+	
+}
+
+.num-header{
+	border-bottom: 2px solid gray;
+	padding: 4px 15px;
+	color:#fff;
+}
+
+.fb-peeps li{
+	display:inline;
+	list-style: none;
+	float:left;
+	padding:10px;
+}
+
+.fb-peeps img{
+	width: 200px;
+}
+
+.fb-peeps{
+	width:1200px;
+	margin:auto;
+}
