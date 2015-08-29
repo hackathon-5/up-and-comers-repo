@@ -1,10 +1,51 @@
-body{ 
-	padding-top:50px;
+.main-header{
+	padding-top:200px;
+	background-color: gray;
+	height: 780px;
+	margin:auto;
 }
+
+.span-top {
+	text-align:center;
+	font-size: 35px;
+}
+
+
+h1{
+	font-size: 90px;
+	color:#fff;
+	text-align: center;
+}
+
+.saves{
+	font-size: 90px;
+	color:red;
+}
+
+
+
+
+
+
 
 .jumbotron{
 	background-color: red;
 	
+}
+
+.heart {
+margin-top:50px;
+
+}
+
+.middle-sect{
+	font-size:50px;
+	color:gray;
+	font-style: 
+}
+
+.heart img{
+	border: 4px solid #000;
 }
 
 .num-header{
